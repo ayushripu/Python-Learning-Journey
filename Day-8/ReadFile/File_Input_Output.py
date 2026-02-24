@@ -1,5 +1,0 @@
-f = open("C:\\Users\\ayush\\OneDrive\\Desktop\\Python\\Day-8\\ReadFile\\itself.txt", "r")
-
-data = f.read()
-print(data)
-f.close()
